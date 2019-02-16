@@ -1,0 +1,327 @@
+ /* Layout 8 */
+         #pgc-8-0-0,
+         #pgc-8-1-0,
+         #pgc-8-2-0,
+         #pgc-8-6-0,
+         #pgc-8-7-0,
+         #pgc-8-9-0,
+         #pgc-8-11-0,
+         #pgc-8-14-0 {
+         width: 100%;
+         width: calc(100% - ( 0 * 30px))
+         }
+         #pg-8-0 {
+         margin-bottom: 94px
+         }
+         #pg-8-1 {
+         margin-bottom: 60px
+         }
+         #pg-8-2,
+         #pg-8-11,
+         #pg-8-12 {
+         margin-bottom: 40px
+         }
+         #pgc-8-3-0,
+         #pgc-8-3-1 {
+         width: 50%;
+         width: calc(50% - ( 0.5 * 60px))
+         }
+         #pg-8-3,
+         #pg-8-5,
+         #pg-8-7,
+         #pg-8-14,
+         #pl-8 .so-panel:last-child {
+         margin-bottom: 0px
+         }
+         #pgc-8-4-0,
+         #pgc-8-4-1 {
+         width: 50%;
+         width: calc(50% - ( 0.5 * 90px))
+         }
+         #pg-8-4,
+         #pg-8-9,
+         #pg-8-10,
+         #pl-8 .so-panel {
+         margin-bottom: 30px
+         }
+         #pgc-8-5-0,
+         #pgc-8-5-1 {
+         width: 50%;
+         width: calc(50% - ( 0.5 * 30px))
+         }
+         #pg-8-6 {
+         margin-bottom: 50px
+         }
+         #pgc-8-8-0,
+         #pgc-8-8-1 {
+         width: 50%;
+         width: calc(50% - ( 0.5 * 45px))
+         }
+         #pg-8-8 {
+         margin-bottom: 101px
+         }
+         #pgc-8-10-0,
+         #pgc-8-10-1,
+         #pgc-8-10-2 {
+         width: 33.3333%;
+         width: calc(33.3333% - ( 0.66666666666667 * 30px))
+         }
+         #pgc-8-12-0,
+         #pgc-8-12-1,
+         #pgc-8-12-2 {
+         width: 33.3333%;
+         width: calc(33.3333% - ( 0.66666666666667 * 0px))
+         }
+         #pgc-8-13-0 {
+         width: 46.3742%;
+         width: calc(46.3742% - ( 0.53625815808557 * 60px))
+         }
+         #pgc-8-13-1 {
+         width: 53.6258%;
+         width: calc(53.6258% - ( 0.46374184191443 * 60px))
+         }
+         #pg-8-13 {
+         margin-bottom: 105px
+         }
+         #pg-8-0> .panel-row-style {
+         background-color: #FBB10D;
+         padding: 22px 0px 22px 0px;
+         margin-top: -5rem
+         }
+         #pg-8-0.panel-no-style,
+         #pg-8-0.panel-has-style > .panel-row-style,
+         #pg-8-1.panel-no-style,
+         #pg-8-1.panel-has-style > .panel-row-style,
+         #pg-8-2.panel-no-style,
+         #pg-8-2.panel-has-style > .panel-row-style,
+         #pg-8-3.panel-no-style,
+         #pg-8-3.panel-has-style > .panel-row-style,
+         #pg-8-4.panel-no-style,
+         #pg-8-4.panel-has-style > .panel-row-style,
+         #pg-8-5.panel-no-style,
+         #pg-8-5.panel-has-style > .panel-row-style,
+         #pg-8-6.panel-no-style,
+         #pg-8-6.panel-has-style > .panel-row-style,
+         #pg-8-7.panel-no-style,
+         #pg-8-7.panel-has-style > .panel-row-style,
+         #pg-8-8.panel-no-style,
+         #pg-8-8.panel-has-style > .panel-row-style,
+         #pg-8-9.panel-no-style,
+         #pg-8-9.panel-has-style > .panel-row-style,
+         #pg-8-10.panel-no-style,
+         #pg-8-10.panel-has-style > .panel-row-style,
+         #pg-8-11.panel-no-style,
+         #pg-8-11.panel-has-style > .panel-row-style,
+         #pg-8-12.panel-no-style,
+         #pg-8-12.panel-has-style > .panel-row-style,
+         #pg-8-14.panel-no-style,
+         #pg-8-14.panel-has-style > .panel-row-style {
+         -webkit-align-items: flex-start;
+         align-items: flex-start
+         }
+         #panel-8-0-0-0 a {
+         color: #c9d2e5
+         }
+         #panel-8-1-0-1> .panel-widget-style,
+         #panel-8-14-0-1> .panel-widget-style {
+         margin-top: -45px
+         }
+         #pg-8-3> .panel-row-style {
+         background-color: #e2eaf5;
+         background-image: url(images/09/background3-min.png);
+         background-position: center center;
+         background-repeat: no-repeat;
+         padding: 35px 0px 20px 0px
+         }
+         #panel-8-3-0-0>  {
+         padding: 30px 0px 0px 0px
+         }
+         #pg-8-4> .panel-row-style {
+         background-image: url(images/09/background2-min.jpg);
+         background-position: center center;
+         background-repeat: no-repeat;
+         padding: 120px 0px 90px 0px;
+         background-size: cover
+         }
+         #panel-8-4-1-1> .panel-widget-style {
+         margin-top: -20px
+         }
+         #pg-8-5> .panel-row-style {
+         background-image: url(images/08/backgorund4-min.png);
+         background-position: center center;
+         background-repeat: no-repeat;
+         padding: 90px 0px 73px 0px
+         }
+         #panel-8-5-0-1> .panel-widget-style {
+         margin-top: -88px
+         }
+         #pg-8-7> .panel-row-style {
+         background-color: #FBB10D;
+         padding: 90px 0px 0px 0px
+         }
+         #panel-8-7-0-0> .panel-widget-style {
+         padding: 0px 0px 0px 0px
+         }
+         #pg-8-8> .panel-row-style {
+         background-color: #FBB10D;
+         padding: 15px 0px 120px 0px
+         }
+         #panel-8-8-0-1> .panel-widget-style {
+         margin-top: 115px
+         }
+         #panel-8-8-1-1> .panel-widget-style {
+         margin-top: -30px
+         }
+         #pg-8-12> .panel-row-style {
+         background-color: #f5f7fa;
+         border: 1px solid #e2e9f0;
+         border-width: 2px
+         }
+         #panel-8-12-0-0> .panel-widget-style,
+         #panel-8-12-1-0> .panel-widget-style,
+         #panel-8-12-2-0> .panel-widget-style {
+         padding: 45px 0px 45px 0px
+         }
+         #pg-8-13> .panel-row-style {
+         background-color: #ffffff;
+         padding: 15px 0px 0px 90px;
+         box-shadow: 0 2px 6px rgba(0, 0, 0, .1), 0 2px 40px rgba(0, 0, 0, .15)
+         }
+         #pg-8-13.panel-no-style,
+         #pg-8-13.panel-has-style > .panel-row-style {
+         -webkit-align-items: flex-end;
+         align-items: flex-end
+         }
+         #panel-8-13-0-1> .panel-widget-style {
+         padding: 0px 0px 0px 0px;
+         margin-top: -60px
+         }
+         #panel-8-13-0-2> .panel-widget-style {
+         padding: 0px 0px 60px 0px
+         }
+         #panel-8-13-1-0> .panel-widget-style {
+         padding: 0px 0px 0px 0px;
+         margin-bottom: -1.95rem
+         }
+         #pg-8-14> .panel-row-style {
+         margin-bottom: -2.75rem
+         }
+         #panel-8-14-0-2> .panel-widget-style {
+         margin-top: -30px
+         }
+         @media (max-width:991px) {
+         #pg-8-0.panel-no-style,
+         #pg-8-0.panel-has-style > .panel-row-style,
+         #pg-8-1.panel-no-style,
+         #pg-8-1.panel-has-style > .panel-row-style,
+         #pg-8-2.panel-no-style,
+         #pg-8-2.panel-has-style > .panel-row-style,
+         #pg-8-3.panel-no-style,
+         #pg-8-3.panel-has-style > .panel-row-style,
+         #pg-8-4.panel-no-style,
+         #pg-8-4.panel-has-style > .panel-row-style,
+         #pg-8-5.panel-no-style,
+         #pg-8-5.panel-has-style > .panel-row-style,
+         #pg-8-6.panel-no-style,
+         #pg-8-6.panel-has-style > .panel-row-style,
+         #pg-8-7.panel-no-style,
+         #pg-8-7.panel-has-style > .panel-row-style,
+         #pg-8-8.panel-no-style,
+         #pg-8-8.panel-has-style > .panel-row-style,
+         #pg-8-9.panel-no-style,
+         #pg-8-9.panel-has-style > .panel-row-style,
+         #pg-8-10.panel-no-style,
+         #pg-8-10.panel-has-style > .panel-row-style,
+         #pg-8-11.panel-no-style,
+         #pg-8-11.panel-has-style > .panel-row-style,
+         #pg-8-12.panel-no-style,
+         #pg-8-12.panel-has-style > .panel-row-style,
+         #pg-8-13.panel-no-style,
+         #pg-8-13.panel-has-style > .panel-row-style,
+         #pg-8-14.panel-no-style,
+         #pg-8-14.panel-has-style > .panel-row-style {
+         -webkit-flex-direction: column;
+         -ms-flex-direction: column;
+         flex-direction: column
+         }
+         #pg-8-0 .panel-grid-cell,
+         #pg-8-1 .panel-grid-cell,
+         #pg-8-2 .panel-grid-cell,
+         #pg-8-3 .panel-grid-cell,
+         #pg-8-4 .panel-grid-cell,
+         #pg-8-5 .panel-grid-cell,
+         #pg-8-6 .panel-grid-cell,
+         #pg-8-7 .panel-grid-cell,
+         #pg-8-8 .panel-grid-cell,
+         #pg-8-9 .panel-grid-cell,
+         #pg-8-10 .panel-grid-cell,
+         #pg-8-11 .panel-grid-cell,
+         #pg-8-12 .panel-grid-cell,
+         #pg-8-13 .panel-grid-cell,
+         #pg-8-14 .panel-grid-cell {
+         margin-right: 0
+         }
+         #pg-8-0 .panel-grid-cell,
+         #pg-8-1 .panel-grid-cell,
+         #pg-8-2 .panel-grid-cell,
+         #pg-8-3 .panel-grid-cell,
+         #pg-8-4 .panel-grid-cell,
+         #pg-8-5 .panel-grid-cell,
+         #pg-8-6 .panel-grid-cell,
+         #pg-8-7 .panel-grid-cell,
+         #pg-8-8 .panel-grid-cell,
+         #pg-8-9 .panel-grid-cell,
+         #pg-8-10 .panel-grid-cell,
+         #pg-8-11 .panel-grid-cell,
+         #pg-8-12 .panel-grid-cell,
+         #pg-8-13 .panel-grid-cell,
+         #pg-8-14 .panel-grid-cell {
+         width: 100%
+         }
+         #pgc-8-3-0,
+         #pgc-8-4-0,
+         #pgc-8-5-0,
+         #pgc-8-8-0,
+         #pgc-8-10-0,
+         #pgc-8-10-1,
+         #pgc-8-12-0,
+         #pgc-8-12-1,
+         #pgc-8-13-0 {
+         margin-bottom: 30px
+         }
+         #pl-8 .panel-grid-cell {
+         padding: 0
+         }
+         #pl-8 .panel-grid .panel-grid-cell-empty {
+         display: none
+         }
+         #pl-8 .panel-grid .panel-grid-cell-mobile-last {
+         margin-bottom: 0px
+         }
+         #panel-8-3-0-0> .panel-widget-style,
+         #panel-8-12-0-0> .panel-widget-style,
+         #panel-8-12-1-0> .panel-widget-style,
+         #panel-8-12-2-0> .panel-widget-style {
+         padding: 0px 0px 0px 0px
+         }
+         #pg-8-7> .panel-row-style {
+         padding: 90px 0px 0px 0px
+         }
+         #pg-8-12> .panel-row-style {
+         padding: 30px 0px 30px 0px
+         }
+         #pg-8-13> .panel-row-style {
+         padding: 55px 45px 70px 45px
+         }
+         }
+         #footer_city{
+         font-size: 15px;
+         text-align: left;
+         }
+         #footer_address{
+         line-height: 30px;
+         color: #6E7180;}
+         .header__inner-container{
+         background-color: #fbfbfbc4;
+         }
+      
